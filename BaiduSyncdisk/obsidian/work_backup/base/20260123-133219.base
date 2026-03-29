@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.hasTag("个人项目")
+    order:
+      - title
+      - file.ctime
+      - tags
+      - file.name

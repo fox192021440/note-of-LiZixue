@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.hasTag("ring清洗机")
+    order:
+      - title
+      - file.name
+      - file.ctime
+      - tags

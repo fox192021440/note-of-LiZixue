@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1759223220369,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1759223264785,
+          "path": "base/20250912-110701.base",
+          "title": "基金投资"
+        },
+        {
+          "type": "file",
+          "ctime": 1763892514773,
+          "path": "base/20251123-180739.base",
+          "title": "非标设计"
+        },
+        {
+          "type": "file",
+          "ctime": 1771652641377,
+          "path": "base/20260221-133700.base",
+          "title": "powershell"
+        }
+      ],
+      "title": "知识"
+    },
+    {
+      "type": "group",
+      "ctime": 1773549169590,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1773108842127,
+          "path": "base/20260310-101302.base",
+          "title": "塑封改造"
+        },
+        {
+          "type": "file",
+          "ctime": 1773108732343,
+          "path": "base/20260310-101201.base",
+          "title": "ring清洗机"
+        },
+        {
+          "type": "file",
+          "ctime": 1759223235170,
+          "path": "base/20250912-110700.base",
+          "title": "金康项目"
+        },
+        {
+          "type": "file",
+          "ctime": 1774145293209,
+          "path": "base/20260322-100805.base",
+          "title": "CUP清洗机"
+        },
+        {
+          "type": "file",
+          "ctime": 1774685767175,
+          "path": "base/20260328-161550.base",
+          "title": "显影上料改造"
+        }
+      ],
+      "title": "项目"
+    },
+    {
+      "type": "group",
+      "ctime": 1773549209467,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1759223280401,
+          "path": "base/20250915-144609.base",
+          "title": "保存图片"
+        },
+        {
+          "type": "file",
+          "ctime": 1769415773759,
+          "path": "base/20260126-162246.base",
+          "title": "求职文件"
+        }
+      ],
+      "title": "其他"
+    }
+  ]
+}

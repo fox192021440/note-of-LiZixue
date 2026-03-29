@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "cd4919952f7917df",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a9bbed5b0015ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3144f7c6b965fde",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dcd26f69bb691614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "event/2026-03-12 塑封改造项目推杆、传感器安装板物料加工.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-12 塑封改造项目推杆、传感器安装板物料加工"
+            }
+          },
+          {
+            "id": "c3a3bdeeca7e6d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "event/2026-03-12 塑封改造下料工装快换方式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-12 塑封改造下料工装快换方式"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef320acfa2bde9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a96aff58841769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab8193254fe86dbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e8923d9da35a141e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f9db325fe18c433c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "f5ff2178ef855157",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c04b0ccf7195262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca88d4f5a10198e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "markdown/20260222-143037.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "20260222-143037 的反向链接列表"
+            }
+          },
+          {
+            "id": "5c5376935912ed1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "event/2026-03-12 塑封改造下料工装快换方式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-03-12 塑封改造下料工装快换方式 的出链列表"
+            }
+          },
+          {
+            "id": "f05212b3c5198ace",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fa168a2dd37fb8a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e7a6a4050314a8f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "event/2026-03-12 塑封改造下料工装快换方式.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-03-12 塑封改造下料工装快换方式 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "webpage-html-export:导出为HTML": false,
+      "pkmer:Open Pkmer Market": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "media-extended:Open external media": false
+    }
+  },
+  "active": "c3a3bdeeca7e6d27",
+  "lastOpenFiles": [
+    "event/2026-03-12 塑封改造项目推杆、传感器安装板物料加工.md",
+    "event/2026-03-12 塑封改造下料工装快换方式.md",
+    "base/20260221-133700.base",
+    "markdown/20260222-143037.md.baiduyun.uploading.cfg",
+    "markdown/20251208-090408.md.baiduyun.uploading.cfg",
+    "markdown/20251123-171315.md.baiduyun.uploading.cfg",
+    "Excalidraw/Drawing 2026-02-06 14.38.03.excalidraw.md.baiduyun.uploading.cfg",
+    "Excalidraw/Drawing 2026-02-01 11.38.12.excalidraw.md.baiduyun.uploading.cfg",
+    "concept/步进电机.md.baiduyun.uploading.cfg",
+    "concept/伺服电机.md.baiduyun.uploading.cfg",
+    "markdown/20251221-145219.md",
+    "event/2026-03-12 塑封改造下料工装快换方式.md.baiduyun.uploading.cfg",
+    "markdown/markdown_Glossary.md",
+    "markdown/markdown_Glossary.md.baiduyun.uploading.cfg",
+    "concept/concept_Index.md",
+    "concept/光电开关.md",
+    "concept/concept_GlossaryIndex.md",
+    "markdown/20260121-152526.md",
+    "markdown/20260310-162516.md",
+    "markdown/20251123-171315.md",
+    "concept/通用电机.md",
+    "markdown/20251213-171254.md",
+    "markdown/20251208-090408.md",
+    "markdown/20260116-132430.md",
+    "markdown/20251105-101743.md",
+    "markdown/20260116-144219.md",
+    "markdown/20251224-161634.md",
+    "markdown/20260126-150303.md",
+    "markdown/20260119-111003.md",
+    "markdown/20251230-205406.md",
+    "markdown/20260126-144801.md",
+    "markdown/20260126-153433.md",
+    "event/2026-03-09 修改塑封项目上料设备.md",
+    "event/2026-03-10 ring清洗机防掉落平台角码、螺母、螺栓数量&尺寸核对.md",
+    "event/2026-03-10 邮寄ring环清洗机物料&塑封改造物料.md",
+    "img/20260312-140334.png",
+    "img/20260312-130314.png",
+    "img/20260312-105647.png",
+    "img/20260312-114101.png",
+    "img/20260312-112438.png",
+    "img/20260312-112724.png",
+    "img/20260312-112805.png",
+    "img/20260312-113208.png",
+    "img/20260312-113315.png",
+    "img/20260312-113749.png",
+    "canvas/20251231-151240.canvas",
+    "canvas/20250913-111338.canvas",
+    "canvas/2025‎‎120‎‎3‎-151821.canvas",
+    "canvas/20250912-110700.canvas",
+    "canvas/20251021-112001.canvas",
+    "canvas/20251022-094001.canvas",
+    "canvas/20260228-111154.canvas",
+    "canvas/20260301-121100.canvas",
+    "20250913-111338 - 副本.canvas",
+    "20250912-110700 - 副本.canvas"
+  ]
+}

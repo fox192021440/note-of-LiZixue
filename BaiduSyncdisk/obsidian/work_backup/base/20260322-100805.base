@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.hasTag("CUP清洗机")
+    order:
+      - title
+      - tags
+      - file.ctime
+      - file.name

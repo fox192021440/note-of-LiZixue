@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.hasTag("powershell")
+    order:
+      - title
+      - file.ctime
+      - tags
+      - file.name

@@ -1,0 +1,25 @@
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 基金
+    filters:
+      or:
+        - file.hasTag("基金")
+    order:
+      - title
+      - file.ctime
+      - tags
+      - file.name
+    sort:
+      - property: file.backlinks
+        direction: ASC
+      - property: formula.未命名
+        direction: ASC
+      - property: file.path
+        direction: DESC
+      - property: file.fullname
+        direction: DESC
+    columnSize:
+      note.title: 193
+      file.ctime: 167

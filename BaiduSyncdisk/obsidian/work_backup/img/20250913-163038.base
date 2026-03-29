@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: 表格
+    filters:
+      and:
+        - file.ext == "png"
+    cardSize: 200
+    image: file.file
+  - type: table
+    name: 视图

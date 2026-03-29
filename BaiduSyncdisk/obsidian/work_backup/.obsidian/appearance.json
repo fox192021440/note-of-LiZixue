@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "mermaid"
+  ],
+  "cssTheme": "",
+  "accentColor": "#9381df",
+  "baseFontSize": 15,
+  "showRibbon": true,
+  "showViewHeader": true
+}

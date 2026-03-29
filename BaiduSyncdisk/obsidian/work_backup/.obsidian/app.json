@@ -1,0 +1,20 @@
+{
+  "promptDelete": true,
+  "useMarkdownLinks": false,
+  "showIndentGuide": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/",
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "rightToLeft": false
+}
