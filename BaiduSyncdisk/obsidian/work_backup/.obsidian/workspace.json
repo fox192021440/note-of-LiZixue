@@ -11,13 +11,12 @@
             "id": "ce5b3b4f359f2781",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "base/20260126-162246.base",
-                "viewName": "表格"
+                "file": "img/20260328-161426.png"
               },
-              "icon": "lucide-table",
-              "title": "20260126-162246"
+              "icon": "lucide-image",
+              "title": "20260328-161426"
             }
           }
         ]
@@ -73,8 +72,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,8 +185,9 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "ce5b3b4f359f2781",
+  "active": "ab8193254fe86dbc",
   "lastOpenFiles": [
+    "base/20260126-162246.base",
     "base/20250915-144609.base",
     "base/20260328-161550.base",
     "base/20260322-100805.base",
@@ -205,17 +204,16 @@
     "markdown/20260309-131003.md",
     "markdown/20251010-194907.md",
     "markdown/20251013-110805.md",
-    "base/20260126-162246.base",
     "markdown/20260328-160922.md",
-    "markdown/20260328-161426.png",
-    "markdown/20260328-161158.png",
-    "markdown/20260328-161221.png",
-    "markdown/20260328-161242.png",
-    "markdown/20260328-161300.png",
-    "markdown/20260328-161318.png",
-    "markdown/20260328-161336.png",
-    "markdown/20260328-161350.png",
-    "markdown/20260328-161406.png",
+    "img/20260328-161426.png",
+    "img/20260328-161158.png",
+    "img/20260328-161221.png",
+    "img/20260328-161242.png",
+    "img/20260328-161300.png",
+    "img/20260328-161318.png",
+    "img/20260328-161336.png",
+    "img/20260328-161350.png",
+    "img/20260328-161406.png",
     "event/2026-03-12 塑封改造项目推杆、传感器安装板物料加工.md",
     "event/2026-03-10 邮寄ring环清洗机物料&塑封改造物料.md",
     "event/2026-02-28 学习感应开关.md",
