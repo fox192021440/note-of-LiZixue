@@ -11,12 +11,48 @@
             "id": "ce5b3b4f359f2781",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/20260328-161426.png"
+                "file": "markdown/20260328-160922.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "20260328-161426"
+              "icon": "lucide-file",
+              "title": "20260328-160922"
+            }
+          },
+          {
+            "id": "a19e3ff6206b8ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/链条.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "链条"
             }
           }
         ]
@@ -181,31 +217,34 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "pkmer:Open Pkmer Market": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open external media": false
     }
   },
   "active": "ab8193254fe86dbc",
   "lastOpenFiles": [
-    "base/20260126-162246.base",
-    "base/20250915-144609.base",
+    "markdown/20260330-165722.png",
+    "markdown/20260328-160922.md",
+    "img/20260330-165630.png",
+    "concept/链条.md",
     "base/20260328-161550.base",
-    "base/20260322-100805.base",
+    "markdown/20260219-131849.md",
     "base/20250912-110700.base",
+    "base/20260322-100805.base",
     "base/20260310-101201.base",
     "base/20260310-101302.base",
-    "base/20260221-133700.base",
     "base/20251123-180739.base",
     "base/20250912-110701.base",
+    "img/20260328-161426.png",
+    "base/20260126-162246.base",
+    "base/20250915-144609.base",
+    "base/20260221-133700.base",
     "markdown/20260320-093010.md",
-    "markdown/20260320-093010.md.baiduyun.uploading.cfg",
     "markdown/20260318-160240.md",
     "markdown/20260312-160135.md",
     "markdown/20260309-131003.md",
     "markdown/20251010-194907.md",
     "markdown/20251013-110805.md",
-    "markdown/20260328-160922.md",
-    "img/20260328-161426.png",
     "img/20260328-161158.png",
     "img/20260328-161221.png",
     "img/20260328-161242.png",
@@ -213,7 +252,6 @@
     "img/20260328-161318.png",
     "img/20260328-161336.png",
     "img/20260328-161350.png",
-    "img/20260328-161406.png",
     "event/2026-03-12 塑封改造项目推杆、传感器安装板物料加工.md",
     "event/2026-03-10 邮寄ring环清洗机物料&塑封改造物料.md",
     "event/2026-02-28 学习感应开关.md",
@@ -221,7 +259,6 @@
     "event/2026-02-28 学习公差配合与工程图.md",
     "event/2026-03-02 分析油封及销钉压装设计思路.md",
     "markdown/20260309-090010.md",
-    "img/20260309-160636.png",
     "event/2026-03-10 ring清洗机防掉落平台角码、螺母、螺栓数量&尺寸核对.md",
     "markdown/20260320-110030.md",
     "markdown/20260319-101029.md",
@@ -231,8 +268,6 @@
     "markdown/20260318-143028.md",
     "markdown/20260318-160330.md",
     "2026-03-23.md",
-    "concept/伺服电机.md",
-    "concept/步进电机.md",
     "canvas/20251022-094001.canvas",
     "canvas/20251231-151240.canvas",
     "canvas/20250913-111338.canvas",
