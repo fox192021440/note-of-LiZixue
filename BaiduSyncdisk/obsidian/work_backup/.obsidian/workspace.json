@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "70a57e9fa2f108b8",
+        "id": "339c8167acdd1888",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5b3b4f359f2781",
+            "id": "d3cff5ed8bb643e1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/20260314-145101.png"
+                "file": "markdown/20260219-131849.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "20260314-145101"
-            }
-          },
-          {
-            "id": "04a8804bfb15ac25",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/20260314-145101.png"
-              },
-              "icon": "lucide-image",
-              "title": "20260314-145101"
-            }
-          },
-          {
-            "id": "d9bfb7ea14351edd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/20260314-144808.png"
-              },
-              "icon": "lucide-image",
-              "title": "20260314-144808"
+              "icon": "lucide-file",
+              "title": "20260219-131849"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,28 +198,39 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "ab8193254fe86dbc",
+  "active": "d3cff5ed8bb643e1",
   "lastOpenFiles": [
-    "img/20260314-145101.png",
+    "base/20250912-110700.base",
+    "base/20250912-110701.base",
+    "markdown/20250912-110702.md",
+    "markdown/20250912-110703.md",
+    "markdown/20250912-112754.md",
+    "markdown/20250912-144724.md",
+    "markdown/20250912-162557.md",
+    "markdown/20260121-152526.md",
+    "markdown/20260203-170441.md",
+    "base/20251123-180739.base",
+    "base/20260221-133700.base",
+    "base/20260310-101302.base",
+    "base/20260310-101201.base",
+    "base/20260322-100805.base",
+    "base/20260328-161550.base",
+    "base/20250915-144609.base",
+    "base/20260126-162246.base",
+    "markdown/20260224-231714.md",
+    "markdown/20260126-162411.md",
+    "markdown/20250920-082531.md",
+    "markdown/20260222-130603.md",
     "img/20260314-144808.png",
+    "img/20260314-145101.png",
     "markdown/20260328-160922.md",
     "img/20260402-114811.png",
     "img/20260402-114720.png",
     "concept/链条.md",
     "img/20260330-165722.png",
     "img/20260330-165630.png",
-    "base/20260328-161550.base",
     "markdown/20260219-131849.md",
-    "base/20250912-110700.base",
-    "base/20260322-100805.base",
-    "base/20260310-101201.base",
-    "base/20260310-101302.base",
-    "base/20251123-180739.base",
-    "base/20250912-110701.base",
     "img/20260328-161426.png",
-    "base/20260126-162246.base",
-    "base/20250915-144609.base",
-    "base/20260221-133700.base",
     "markdown/20260320-093010.md",
     "markdown/20260318-160240.md",
     "markdown/20260312-160135.md",
@@ -241,23 +240,11 @@
     "img/20260328-161158.png",
     "img/20260328-161221.png",
     "img/20260328-161242.png",
-    "img/20260328-161300.png",
     "event/2026-03-12 塑封改造项目推杆、传感器安装板物料加工.md",
     "event/2026-03-10 邮寄ring环清洗机物料&塑封改造物料.md",
     "event/2026-02-28 学习感应开关.md",
     "event/2026-03-10 加热器下单.md",
     "event/2026-02-28 学习公差配合与工程图.md",
-    "event/2026-03-02 分析油封及销钉压装设计思路.md",
-    "markdown/20260309-090010.md",
-    "event/2026-03-10 ring清洗机防掉落平台角码、螺母、螺栓数量&尺寸核对.md",
-    "markdown/20260320-110030.md",
-    "markdown/20260319-101029.md",
-    "event/2026-03-19 花篮定位块改造.md",
-    "markdown/20260318-183024.md",
-    "markdown/20260318-160459.md",
-    "markdown/20260318-143028.md",
-    "markdown/20260318-160330.md",
-    "2026-03-23.md",
     "canvas/20251022-094001.canvas",
     "canvas/20251231-151240.canvas",
     "canvas/20250913-111338.canvas",
