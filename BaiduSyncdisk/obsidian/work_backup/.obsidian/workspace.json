@@ -30,18 +30,6 @@
               "icon": "lucide-file",
               "title": "20260403-141011"
             }
-          },
-          {
-            "id": "14a9e66b844ee1ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-03 14.14.37.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-03 14.14.37.excalidraw"
-            }
           }
         ]
       }
@@ -213,16 +201,21 @@
   "active": "d3cff5ed8bb643e1",
   "lastOpenFiles": [
     "base/20260403-142700.base",
+    "base/20250912-110701.base",
+    "base/20260221-133700.base",
+    "base/20251123-180739.base",
     "markdown/20260403-141011.md",
+    "base/20260322-100805.base",
+    "base/20250912-110700.base",
+    "base/20260310-101201.base",
+    "base/20260310-101302.base",
+    "Excalidraw/Drawing 2026-04-03 14.14.37.excalidraw.md",
     "img/20260403-142538.png",
     "img/20260403-141438.png",
     "img/20260403-141658.png",
     "img/20260403-142043.png",
     "img/20260403-142442.png",
-    "Excalidraw/Drawing 2026-04-03 14.14.37.excalidraw.md",
     "markdown/20260219-131849.md",
-    "base/20250912-110700.base",
-    "base/20250912-110701.base",
     "markdown/20250912-110702.md",
     "markdown/20250912-110703.md",
     "markdown/20250912-112754.md",
@@ -230,11 +223,6 @@
     "markdown/20250912-162557.md",
     "markdown/20260121-152526.md",
     "markdown/20260203-170441.md",
-    "base/20251123-180739.base",
-    "base/20260221-133700.base",
-    "base/20260310-101302.base",
-    "base/20260310-101201.base",
-    "base/20260322-100805.base",
     "base/20260328-161550.base",
     "base/20250915-144609.base",
     "markdown/20260224-231714.md",
