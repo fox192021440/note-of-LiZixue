@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown/20260219-131849.md",
+                "file": "markdown/20260403-141011.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260219-131849"
+              "title": "20260403-141011"
+            }
+          },
+          {
+            "id": "14a9e66b844ee1ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-03 14.14.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-03 14.14.37.excalidraw"
             }
           }
         ]
@@ -200,6 +212,15 @@
   },
   "active": "d3cff5ed8bb643e1",
   "lastOpenFiles": [
+    "base/20260403-142700.base",
+    "markdown/20260403-141011.md",
+    "img/20260403-142538.png",
+    "img/20260403-141438.png",
+    "img/20260403-141658.png",
+    "img/20260403-142043.png",
+    "img/20260403-142442.png",
+    "Excalidraw/Drawing 2026-04-03 14.14.37.excalidraw.md",
+    "markdown/20260219-131849.md",
     "base/20250912-110700.base",
     "base/20250912-110701.base",
     "markdown/20250912-110702.md",
@@ -216,7 +237,6 @@
     "base/20260322-100805.base",
     "base/20260328-161550.base",
     "base/20250915-144609.base",
-    "base/20260126-162246.base",
     "markdown/20260224-231714.md",
     "markdown/20260126-162411.md",
     "markdown/20250920-082531.md",
@@ -228,23 +248,15 @@
     "img/20260402-114720.png",
     "concept/链条.md",
     "img/20260330-165722.png",
-    "img/20260330-165630.png",
-    "markdown/20260219-131849.md",
-    "img/20260328-161426.png",
     "markdown/20260320-093010.md",
     "markdown/20260318-160240.md",
     "markdown/20260312-160135.md",
     "markdown/20260309-131003.md",
     "markdown/20251010-194907.md",
     "markdown/20251013-110805.md",
-    "img/20260328-161158.png",
-    "img/20260328-161221.png",
-    "img/20260328-161242.png",
     "event/2026-03-12 塑封改造项目推杆、传感器安装板物料加工.md",
     "event/2026-03-10 邮寄ring环清洗机物料&塑封改造物料.md",
     "event/2026-02-28 学习感应开关.md",
-    "event/2026-03-10 加热器下单.md",
-    "event/2026-02-28 学习公差配合与工程图.md",
     "canvas/20251022-094001.canvas",
     "canvas/20251231-151240.canvas",
     "canvas/20250913-111338.canvas",
