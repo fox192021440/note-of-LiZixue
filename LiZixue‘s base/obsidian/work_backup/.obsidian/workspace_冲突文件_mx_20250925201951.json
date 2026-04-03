@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "5b7e31e3aa1d2c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9e9757b87486516",
+        "type": "tabs",
+        "dimension": 41.992665036674815,
+        "children": [
+          {
+            "id": "2f9df309a192968c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "WorkSpace-Project&Plan-20250915-144609-001.base",
+                "viewName": "图片"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "WorkSpace-Project&Plan-20250915-144609-001"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d777cdcb548c185",
+        "type": "tabs",
+        "dimension": 58.007334963325185,
+        "children": [
+          {
+            "id": "10ff41881e7ed3d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkSpace-Project&Plan-20250912-115100-009.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "WorkSpace-Project&Plan-20250912-115100-009"
+            }
+          },
+          {
+            "id": "11141fe28b8222e9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "WorkSpace-Project&Plan-20250925-133642-001.canvas",
+                "viewState": {
+                  "x": 1607.2438142087326,
+                  "y": 1651.4822954765355,
+                  "zoom": -1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "WorkSpace-Project&Plan-20250925-133642-001"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c703dc47fe3f22dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4441f23c42117b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8b69bb4e0d20a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8bd9d827c2c5593d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "323f788a6854596a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 484.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bf37a5be8bee5315",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9ba3dfa9539055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182f483bcda9fdc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkSpace-Project&Plan-20250925-133642-001.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "WorkSpace-Project&Plan-20250925-133642-001 的反向链接列表"
+            }
+          },
+          {
+            "id": "e9a34ef6aaf87e73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6ae381c31b3c9a49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "136667e6c401d996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "a04278272e22078a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5c2828f5726ba10a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "WorkSpace-Project&Plan-20250925-133642-001.canvas"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "bases:创建新数据库": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "11141fe28b8222e9",
+  "lastOpenFiles": [
+    "WorkSpace-Project&Plan-20250925-133642-001.canvas.baiduyun.uploading.cfg",
+    "WorkSpace-Project&Plan-20250915-144609-001.base",
+    "WorkSpace-Project&Plan-20250925-133642-001.canvas",
+    "WorkSpace-Project&Plan-20250912-115100-009.md",
+    "WorkSpace-Project&Plan-20250925-200713-003.png",
+    "WorkSpace-Project&Plan-20250925-200636-002.png",
+    "WorkSpace-Project&Plan-20250925-193531-001.canvas",
+    "Pasted image 20250925200713.png.baiduyun.uploading.cfg",
+    "Pasted image 20250925200713.png",
+    "Pasted image 20250925200636.png.baiduyun.uploading.cfg",
+    "Pasted image 20250925200636.png",
+    "WorkSpace-Project&Plan-20250925-133642-001_冲突文件_mx_20250925193531.canvas.baiduyun.uploading.cfg",
+    "WorkSpace-Project&Plan-20250925-133642-001.canvas.baiduyun.p.downloading",
+    "WorkSpace-Project&Plan-20250925-133642-001_冲突文件_mx_20250925193531.canvas",
+    "WorkSpace-Project&Plan-20250925-193105-002.png",
+    "WorkSpace-Project&Plan-20250925-172614-001.png",
+    "Pasted image 20250925193105.png.baiduyun.uploading.cfg",
+    "Pasted image 20250925193105.png",
+    "WorkSpace-Project&Plan-20250925-163215-001.png",
+    "WorkSpace-Project&Plan-20250913-111338-003.canvas.baiduyun.p.downloading",
+    "Pasted image 20250925172614.png.baiduyun.uploading.cfg",
+    "Pasted image 20250925172614.png",
+    "WorkSpace-Project&Plan-20250925-164728-004.png",
+    "Pasted image 20250925164728.png.baiduyun.uploading.cfg",
+    "WorkSpace-Project&Plan-20250919-193829-003.md",
+    "WorkSpace-Project&Plan-20250920-082531-001.md",
+    "WorkSpace-Project&Plan-20250912-110700-001.canvas",
+    "Pasted image 20250925134526.png.md",
+    "WorkSpace-Project&Plan-20250924-145645-001.canvas",
+    "WorkSpace-Project&Plan-20250919-193839-004.canvas",
+    "WorkSpace-Project&Plan-20250913-111338-003.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "WorkSpace-Project&Plan-20250912-110700-003.md",
+    "WorkSpace-Project&Plan-20250913-111338-003_冲突文件_1_20250923194656.canvas",
+    "WorkSpace-Project&Plan-20250915-160231-002.md",
+    "WorkSpace-Project&Plan-20250915-092714-001.md",
+    "WorkSpace-Project&Plan-20250915-084330-001.md",
+    "未命名.md",
+    "Untitled.md",
+    "WorkSpace-Project&Plan-20250912-112754-008.md",
+    "WorkSpace-Project&Plan-20250914-114628-001.md",
+    "WorkSpace-Project&Plan-20250912-110700-006.md",
+    "吊装夹爪.md",
+    "未命名 1.md",
+    "WorkSpace-Project&Plan-20250912-162557-002.md",
+    "WorkSpace-Project&Plan-20250912-152234-001.md",
+    "WorkSpace-Project&Plan-20250912-144724-010.md",
+    "WorkSpace-Project&Plan-20250912-110700-005.md",
+    "WorkSpace-Project&Plan-20250912-110700-004.md",
+    "PE 分位数.md",
+    "WorkSpace-Project&Plan-20250912-145435-001.md",
+    "WorkSpace-Project&Plan-20250912-115100-010.md",
+    "WorkSpace-Project&Plan-20250912-112754-009.md",
+    "WorkSpace-Project&Plan-20250912-110700-007.md"
+  ]
+}

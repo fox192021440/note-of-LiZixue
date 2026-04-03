@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: 图片
+    filters:
+      or:
+        - file.ext == "png"
+        - file.ext == "jpg"
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: file.file
+    imageFit: contain
+    cardSize: 120

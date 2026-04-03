@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5b7e31e3aa1d2c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9195737a33007360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f6a7cff9e860a45",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "WorkSpace-Project&Plan-20250912-110700-001.canvas",
+                "viewState": {
+                  "x": 1228.7093451854046,
+                  "y": 227.42209217136843,
+                  "zoom": 0.05475627629660751
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "WorkSpace-Project&Plan-20250912-110700-001"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c703dc47fe3f22dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4441f23c42117b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8b69bb4e0d20a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8bd9d827c2c5593d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95a697f187ca190d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bf37a5be8bee5315",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9ba3dfa9539055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182f483bcda9fdc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "e9a34ef6aaf87e73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6ae381c31b3c9a49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "136667e6c401d996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6f6a7cff9e860a45",
+  "lastOpenFiles": [
+    "PE 分位数.md",
+    "WorkSpace-Project&Plan-20250912-110700-001.canvas",
+    "WorkSpace-Project&Plan-20250912-110700-001.canvas.baiduyun.uploading.cfg",
+    "WorkSpace-Project&Plan-20250912-112754-008.md",
+    "WorkSpace-Project&Plan-20250912-110700-007.base",
+    "WorkSpace-Project&Plan-20250912-110700-006.md",
+    "WorkSpace-Project&Plan-20250912-110700-005.md",
+    "WorkSpace-Project&Plan-20250912-110700-003.md",
+    "WorkSpace-Project&Plan-20250912-110700-002.base",
+    "PE 分位数.md.baiduyun.uploading.cfg",
+    "WorkSpace-Project&Plan-20250912-110700-006.md.baiduyun.uploading.cfg",
+    "WorkSpace-Project&Plan-20250912-110700-004.md",
+    "未命名.md",
+    "WorkSpace-Project&Plan-20250912-115100-009.md",
+    "WorkSpace-Project&Plan-20250912-144724-010.md",
+    "WorkSpace-Project&Plan-20250912-145435-001.md",
+    "WorkSpace-Project&Plan-20250912-115100-010.md",
+    "WorkSpace-Project&Plan-20250912-112754-009.md",
+    "WorkSpace-Project&Plan-20250912-110700-008.base",
+    "WorkSpace-Project&Plan-20250912-110700-007.md",
+    "技术部-APPv2.0-UI稿-20250912-010.md",
+    "WorkSpace-Project&Plan-20250912.md",
+    "WorkSpace-Project&Plan-20250912.base",
+    "WorkSpace-Project&Plan-20250912.canvas",
+    "技术部-APPv2.0-UI稿-20250912-009.md",
+    "技术部-APPv2.0-UI稿-20250912-008.base",
+    "技术部-APPv2.0-UI稿-20250912-007.md",
+    "技术部-APPv2.0-UI稿-20250912-006.md",
+    "技术部-APPv2.0-UI稿-20250912-005.md",
+    "未命名 1.md",
+    "20250912-理财.base",
+    "20250912-止盈比例优化方式.md",
+    "20250912-止盈和止亏.md",
+    "20250912-止损比例优化方式.md",
+    "20250912-未命名.md",
+    "20250912-未命名 1.md",
+    "20250912-工作.base",
+    "20250912-基金配置.canvas",
+    "基金配置.canvas"
+  ]
+}
