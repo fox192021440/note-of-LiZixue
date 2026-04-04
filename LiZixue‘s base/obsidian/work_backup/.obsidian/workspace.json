@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20260328-160922",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +197,7 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "07a96124361014ff",
+  "active": "ab8193254fe86dbc",
   "lastOpenFiles": [
     "markdown/20260403-141011.md",
     "base/20260403-142700.base",
