@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "366da661bc5864f9",
+        "id": "62ce2c9523330c95",
         "type": "tabs",
         "children": [
           {
             "id": "07a96124361014ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "markdown/20260328-160922.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "base/20260322-100805.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "20260328-160922"
+              "icon": "lucide-table",
+              "title": "20260322-100805"
             }
           }
         ]
@@ -84,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,62 +187,62 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "ab8193254fe86dbc",
+  "active": "07a96124361014ff",
   "lastOpenFiles": [
-    "markdown/20260403-141011.md",
-    "base/20260403-142700.base",
+    "base/20250912-110700.base",
+    "canvas/20251021-112001.canvas",
+    "canvas/20251022-094001.canvas",
+    "canvas/20251231-151240.canvas",
+    "markdown/20250915-092714.md",
+    "canvas/20250913-111338.canvas",
+    "markdown/20251022-093948.md",
+    "markdown/20250915-084330.md",
+    "markdown/20250915-140543.md",
+    "markdown/20250930-165746.md",
+    "markdown/20250919-193829.md",
+    "markdown/20250930-171457.md",
+    "markdown/20251006-135707.md",
+    "markdown/20251004-153736.md",
+    "markdown/20251008-104229.md",
+    "markdown/20251008-140632.md",
+    "markdown/20251008-140741.md",
+    "markdown/20251009-101341.md",
+    "markdown/20251008-145526.md",
+    "markdown/20251009-190444.md",
+    "markdown/20251009-225303.md",
+    "markdown/20251009-102830.md",
+    "markdown/20251010-194907.md",
+    "markdown/20251013-110805.md",
+    "markdown/20251020-092858.md",
+    "markdown/20251213-140148.md",
+    "markdown/20251208-090408.md",
+    "markdown/20251105-101743.md",
+    "markdown/20251022-144415.md",
+    "markdown/20251202-140632.md",
+    "canvas/2025‎‎120‎‎3‎-151821.canvas",
+    "未命名.canvas",
+    "20251022-094001.png",
     "base/20260328-161550.base",
-    "markdown/20260328-160922.md",
-    "markdown/20260224-231714.md",
+    "base/20260403-142700.base",
+    "base/20260322-100805.base",
     "base/20260126-162246.base",
     "base/20250912-110701.base",
     "base/20260221-133700.base",
     "base/20251123-180739.base",
-    "base/20260322-100805.base",
-    "base/20250912-110700.base",
     "base/20260310-101201.base",
     "base/20260310-101302.base",
-    "Excalidraw/Drawing 2026-04-03 14.14.37.excalidraw.md",
     "img/20260403-142538.png",
     "img/20260403-141438.png",
     "img/20260403-141658.png",
     "img/20260403-142043.png",
     "img/20260403-142442.png",
-    "markdown/20260219-131849.md",
-    "markdown/20250912-110702.md",
-    "markdown/20250912-110703.md",
-    "markdown/20250912-112754.md",
-    "markdown/20250912-144724.md",
-    "markdown/20250912-162557.md",
-    "markdown/20260121-152526.md",
-    "markdown/20260203-170441.md",
-    "markdown/20260126-162411.md",
-    "markdown/20250920-082531.md",
-    "markdown/20260222-130603.md",
     "img/20260314-144808.png",
     "img/20260314-145101.png",
     "img/20260402-114811.png",
     "img/20260402-114720.png",
-    "concept/链条.md",
-    "img/20260330-165722.png",
-    "markdown/20260320-093010.md",
-    "markdown/20260318-160240.md",
-    "markdown/20260312-160135.md",
-    "markdown/20260309-131003.md",
-    "markdown/20251010-194907.md",
-    "markdown/20251013-110805.md",
-    "event/2026-03-12 塑封改造项目推杆、传感器安装板物料加工.md",
-    "event/2026-03-10 邮寄ring环清洗机物料&塑封改造物料.md",
-    "event/2026-02-28 学习感应开关.md",
-    "canvas/20251022-094001.canvas",
-    "canvas/20251231-151240.canvas",
-    "canvas/20250913-111338.canvas",
-    "canvas/2025‎‎120‎‎3‎-151821.canvas",
     "canvas/20260301-121100.canvas",
     "canvas/20250912-110700.canvas",
-    "canvas/20251021-112001.canvas",
     "canvas/20260228-111154.canvas",
-    "20250913-111338 - 副本.canvas",
-    "20250912-110700 - 副本.canvas"
+    "20250913-111338 - 副本.canvas"
   ]
 }

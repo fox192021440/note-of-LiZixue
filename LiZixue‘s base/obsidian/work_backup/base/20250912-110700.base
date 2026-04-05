@@ -7,12 +7,6 @@ views:
     filters:
       or:
         - file.hasTag("金康项目")
-        - or:
-            - file.basename == "20251022-094001"
-            - file.basename == "20251021-112001"
-            - file.basename == "20250913-111338"
-            - file.basename == "2025‎‎120‎‎3‎-151821"
-            - file.basename == "20251231-151240"
     order:
       - title
       - file.ctime
