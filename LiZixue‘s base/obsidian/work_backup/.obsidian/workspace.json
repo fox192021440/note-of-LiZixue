@@ -11,13 +11,24 @@
             "id": "07a96124361014ff",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "base/20260322-100805.base",
-                "viewName": "表格"
+                "file": "markdown/20260328-160922.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "20260322-100805"
+              "icon": "lucide-file",
+              "title": "20260328-160922"
             }
           }
         ]
@@ -189,7 +200,17 @@
   },
   "active": "07a96124361014ff",
   "lastOpenFiles": [
+    "base/20260328-161550.base",
+    "base/20260322-100805.base",
     "base/20250912-110700.base",
+    "base/20260310-101201.base",
+    "markdown/20260309-090010.md",
+    "base/20260310-101302.base",
+    "markdown/20260312-160135.md",
+    "markdown/20260309-131003.md",
+    "base/20260221-133700.base",
+    "base/20251123-180739.base",
+    "base/20250912-110701.base",
     "canvas/20251021-112001.canvas",
     "canvas/20251022-094001.canvas",
     "canvas/20251231-151240.canvas",
@@ -216,21 +237,11 @@
     "markdown/20251020-092858.md",
     "markdown/20251213-140148.md",
     "markdown/20251208-090408.md",
-    "markdown/20251105-101743.md",
-    "markdown/20251022-144415.md",
-    "markdown/20251202-140632.md",
     "canvas/2025‎‎120‎‎3‎-151821.canvas",
     "未命名.canvas",
     "20251022-094001.png",
-    "base/20260328-161550.base",
     "base/20260403-142700.base",
-    "base/20260322-100805.base",
     "base/20260126-162246.base",
-    "base/20250912-110701.base",
-    "base/20260221-133700.base",
-    "base/20251123-180739.base",
-    "base/20260310-101201.base",
-    "base/20260310-101302.base",
     "img/20260403-142538.png",
     "img/20260403-141438.png",
     "img/20260403-141658.png",
